@@ -2,7 +2,7 @@
 
 
 # Part One
-The first section of the interview task can be downloaded and viewed using and IDE. I created the community trigger page and it has all the details requested on it.
+The first section of the interview task can be downloaded and viewed using an IDE. I created the community trigger page and it has all the details requested on it.
 
 I have attached some images below.
 
